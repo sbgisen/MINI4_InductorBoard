@@ -115,7 +115,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "/home/gisen/KiCad/MINI4_InductorBoard/gerber/")
 		)
 	)
 	(net 0 "")
@@ -819,8 +819,8 @@
 		)
 	)
 	(gr_line
-		(start 126.75 106)
-		(end 126.75 113)
+		(start 125.55 106)
+		(end 125.55 113)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -869,7 +869,7 @@
 		(uuid "40c23506-0dd6-4ab7-92b9-dc75335bc32b")
 	)
 	(gr_line
-		(start 126.75 113)
+		(start 125.55 113)
 		(end 128.75 113)
 		(stroke
 			(width 0.05)
@@ -910,7 +910,7 @@
 	)
 	(gr_line
 		(start 119.25 106)
-		(end 126.75 106)
+		(end 125.55 106)
 		(stroke
 			(width 0.05)
 			(type default)
